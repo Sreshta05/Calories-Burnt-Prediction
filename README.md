@@ -56,7 +56,7 @@ TOML
 
 XGBoost
 
-How To Use:
+## How To Use:
 
   Ensure the dataset files (calories.csv and exercise.csv) are placed in the cedata directory.
 
